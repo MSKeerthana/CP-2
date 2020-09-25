@@ -55,8 +55,11 @@ class dustbin
 			//strokeWeight(4);
 			angleMode(RADIANS)
 			fill(255)
-			imageMode(CENTER);
-			image(this.image, 0,-this.dustbinHeight/2,this.dustbinWidth, this.dustbinHeight)
+			
+			//write your code here
+		
+		
+		
 			//rect(0,0,this.dustbinWidth, this.wallThickness);
 			pop()
 			
